@@ -7,7 +7,7 @@ MySql - 8.0.29
 
 How to run backend : 
 1. pull the code from repository
-2. go to folder backend
+2. go to folder backend and open folder game
 3. load maven using IDE (i'm use Intellij IDEA)
 4. in the application properties file you need do some action, that is you need to put the your local MySql password
 5. for the first time to running application you need uncomment #spring.jpa.hibernate.ddl-auto=create
