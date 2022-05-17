@@ -30,3 +30,6 @@ How to run frontend :
 3. in terminal go to folder tic-tac-toe
 4. npm install
 5. execute script "npm run dev"
+
+notes : 
+if you got the error after npm install and execute npm run dev , might be you need to delete the package-lock.json file and npm install again
